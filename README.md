@@ -17,7 +17,6 @@ Electronics and Telecommunications Engineering — ET1
 Class 09 • K70  
 Expected Graduation: **2029**
 
-- GPA: **3.47 / 4.00**
 - Student ID: **202513952**
 
 Relevant coursework:
@@ -78,14 +77,3 @@ Relevant coursework:
 - Currently learning how SNN architectures can be implemented on FPGA
 
 ---
-
-# 🚀 Featured Project
-
-## 5-Stage Pipelined RISC-V Processor on Tang Nano 9K
-
-[![Repository](https://img.shields.io/badge/GitHub-RISC--V_Pipeline-181717?logo=github)](https://github.com/elliotthewizerd/riscv-pipeline-tangnano9k)
-
-A 5-stage pipelined RISC-V processor written in Verilog and designed for the **Tang Nano 9K FPGA**.
-
-```text
-IF → ID → EX → MEM → WB
